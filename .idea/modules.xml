@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/conghua.iml" filepath="$PROJECT_DIR$/conghua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conghua-usercenter/conghua-usercenter.iml" filepath="$PROJECT_DIR$/conghua-usercenter/conghua-usercenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conghua-usercenter/conghua-usercenter-api/conghua-usercenter-api.iml" filepath="$PROJECT_DIR$/conghua-usercenter/conghua-usercenter-api/conghua-usercenter-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conghua-usercenter/conghua-usercenter-bean/conghua-usercenter-bean.iml" filepath="$PROJECT_DIR$/conghua-usercenter/conghua-usercenter-bean/conghua-usercenter-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conghua-usercenter/conghua-usercenter-web/conghua-usercenter-web.iml" filepath="$PROJECT_DIR$/conghua-usercenter/conghua-usercenter-web/conghua-usercenter-web.iml" />
+    </modules>
+  </component>
+</project>
